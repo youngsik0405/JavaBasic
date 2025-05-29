@@ -1,0 +1,10 @@
+package com.test.firstjavaproject;
+
+public class MultiplcationTableRunner {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
